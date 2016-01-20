@@ -1,0 +1,5 @@
+crear una carpeta para el proyecto
+hacer git init dentro
+añadirle un repositori
+git remote add origin ruta
+hacer git pull origin

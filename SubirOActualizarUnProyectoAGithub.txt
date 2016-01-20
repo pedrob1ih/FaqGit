@@ -1,0 +1,4 @@
+//solo para subirlo
+	git remote add origin <rutaAlproyecto de GitHub>
+	git remote add origin https://github.com/pedrob1ih/Encrypta3.0.git
+	git push origin <nombre de la rama que queremos subir>

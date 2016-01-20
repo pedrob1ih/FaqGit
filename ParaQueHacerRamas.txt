@@ -1,0 +1,1 @@
+una rama sirve para tener el mismo proyecto avanzando en dos direcciones distintas al mismo tiempo. Los Commits de una rama no existen en la otra
