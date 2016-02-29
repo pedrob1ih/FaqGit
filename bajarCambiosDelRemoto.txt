@@ -1,2 +1,3 @@
-git pull https://github.com/pedrob1ih/EncryptaAndroid.git master
+git fetch origin
+git merge origin/master
 
