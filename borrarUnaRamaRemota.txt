@@ -1,1 +1,2 @@
 git push origin :master
+ten en cuenta de que no funciona si la rama que vas a borrar es la rama principal, debe ser siempre una rama secundaria
